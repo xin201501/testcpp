@@ -1,5 +1,5 @@
 #include<iostream>
-#include"chapter2.h"
+#include"../include/algorithms/chapter2_vector.h"
 using namespace std;
 int main(int argc, char const* argv[])
 {
